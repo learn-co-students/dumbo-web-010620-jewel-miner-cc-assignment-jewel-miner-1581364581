@@ -9,10 +9,10 @@ Also ensure that you are working on your own branch right now.
 We currently have two models: **Miner** and **Jewel**. A miner can have many jewels, and a Jewel can have many miners who own them. The migration files we've provided may need to be tweaked AND/OR a new migration file added to account for this many-to-many relationship.
 
 # Provided for You
-- Miner Index page.
-- Jewel Index page.
-- A Navigation bar.
-- Provided CSS for styling.
+- Miner Index page
+- Jewel Index page
+- A Navigation bar
+- CSS for styling (Courtesy of Water CSS)
 
 # Deliverables
 ### Associations
