@@ -40,9 +40,11 @@ You should be able to run `rails s` and view the seeded data on the index pages.
 6. Be able to have a miner own a new jewel.
     - The miner is chosen from a dropdown menu
     - The jewel is chosen from a dropdown menu
+    - Should redirect to *miner show page*.
     - Note that a miner can own duplicate jewels
 7. Be able to create a new miner.
     - Miner name **cannot be blank** and should be **unique**
+    - Should redirect to miner show page.
 
 # Bonus Deliverables
 Nice job! Want to push yourself to the limit? Run `git add .` and `git commit -m "done with main deliverables"`, then try the below!
